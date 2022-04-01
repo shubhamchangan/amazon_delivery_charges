@@ -3,6 +3,7 @@
 # else u have to pay Rs.60 for delivery.
 
 cart = [1999, 200, 500, 399, 780, 899, 499]
+
 for i in cart:
     if i >= 500:
         print('Dear customer free shipment is available')
