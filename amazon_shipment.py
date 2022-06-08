@@ -11,3 +11,4 @@ for i in cart:
     else:
         print('You have to pay Rs.60 for shipment')
         
+        
